@@ -7,7 +7,7 @@ namespace aula_4
     {
         static void Main(String[] args)
         {
-            Console.WriteLine("Informe um valor inicial: ");
+            Console.WriteLine("Informe o valor inicial: ");
             double preco = double.Parse(System.Console.ReadLine());
             Console.WriteLine("Informe o tipo de Investimento: ");
             Console.WriteLine("1 - Poupanca ");
