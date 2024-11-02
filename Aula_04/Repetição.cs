@@ -3,7 +3,7 @@ namespace Exemplo_4
 {
     class Program4
     {
-        static void ain(String[] args){
+        static void Main(String[] args){
             System.Console.WriteLine("Qual Tabuada Voce Deseja Saber?: ");
             int resp = int.Parse(Console.ReadLine());
             System.Console.WriteLine("===== Com For =====");
