@@ -10,7 +10,7 @@ namespace Exemplo3
             String produto1 = "Computador";
             String produto2 = "Mesa de Escritorio";
 
-            byte idade = 30;
+            byte idade = 31;
             int cod = 5290;
             char genero = 'M';
 
