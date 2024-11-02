@@ -2,7 +2,7 @@ using System;
 
 namespace Exercicio02{
     class Exercicio_02{
-        static void sssss(String[] args){
+        static void Main(String[] args){
             System.Console.WriteLine("Informe sua senha: ");
             string sen = Console.ReadLine();
             Console.Clear();
