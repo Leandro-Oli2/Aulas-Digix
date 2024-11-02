@@ -1,0 +1,15 @@
+C:\Users\Windows 11\Desktop\Aulas-Digix\Aula_01\obj\Debug\net8.0\Exemplo_1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Windows 11\Desktop\Aulas-Digix\Aula_01\obj\Debug\net8.0\Exemplo_1.AssemblyInfoInputs.cache
+C:\Users\Windows 11\Desktop\Aulas-Digix\Aula_01\obj\Debug\net8.0\Exemplo_1.AssemblyInfo.cs
+C:\Users\Windows 11\Desktop\Aulas-Digix\Aula_01\obj\Debug\net8.0\Exemplo_1.csproj.CoreCompileInputs.cache
+C:\Users\Windows 11\Desktop\Aulas-Digix\Aula_01\obj\Debug\net8.0\Exemplo_1.sourcelink.json
+C:\Users\Windows 11\Desktop\Aulas-Digix\Aula_01\bin\Debug\net8.0\Exemplo_1.exe
+C:\Users\Windows 11\Desktop\Aulas-Digix\Aula_01\bin\Debug\net8.0\Exemplo_1.deps.json
+C:\Users\Windows 11\Desktop\Aulas-Digix\Aula_01\bin\Debug\net8.0\Exemplo_1.runtimeconfig.json
+C:\Users\Windows 11\Desktop\Aulas-Digix\Aula_01\bin\Debug\net8.0\Exemplo_1.dll
+C:\Users\Windows 11\Desktop\Aulas-Digix\Aula_01\bin\Debug\net8.0\Exemplo_1.pdb
+C:\Users\Windows 11\Desktop\Aulas-Digix\Aula_01\obj\Debug\net8.0\Exemplo_1.dll
+C:\Users\Windows 11\Desktop\Aulas-Digix\Aula_01\obj\Debug\net8.0\refint\Exemplo_1.dll
+C:\Users\Windows 11\Desktop\Aulas-Digix\Aula_01\obj\Debug\net8.0\Exemplo_1.pdb
+C:\Users\Windows 11\Desktop\Aulas-Digix\Aula_01\obj\Debug\net8.0\Exemplo_1.genruntimeconfig.cache
+C:\Users\Windows 11\Desktop\Aulas-Digix\Aula_01\obj\Debug\net8.0\ref\Exemplo_1.dll

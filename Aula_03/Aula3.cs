@@ -4,7 +4,7 @@ namespace Aula_3
 {
     class Programa3
     {
-        static void sla(String[] args)
+        static void Main(String[] args)
         {
             int idade = 20;
             switch(idade){
