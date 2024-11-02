@@ -13,9 +13,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Windows 11\\Desktop\\Aulas-Digix\\Aula_01.csproj",
-      "projectName": "Aula_01",
-      "projectPath": "C:\\Users\\Windows 11\\Desktop\\Aulas-Digix\\Aula_01.csproj",
+      "projectUniqueName": "C:\\Users\\Windows 11\\Desktop\\Aulas-Digix\\Aula.csproj",
+      "projectName": "Aula",
+      "projectPath": "C:\\Users\\Windows 11\\Desktop\\Aulas-Digix\\Aula.csproj",
       "packagesPath": "C:\\Users\\Windows 11\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\Windows 11\\Desktop\\Aulas-Digix\\obj\\",
       "projectStyle": "PackageReference",

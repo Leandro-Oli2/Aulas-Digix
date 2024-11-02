@@ -1,0 +1,15 @@
+C:\Users\Windows 11\Desktop\Aulas-Digix\bin\Debug\net8.0\Aula.exe
+C:\Users\Windows 11\Desktop\Aulas-Digix\bin\Debug\net8.0\Aula.deps.json
+C:\Users\Windows 11\Desktop\Aulas-Digix\bin\Debug\net8.0\Aula.runtimeconfig.json
+C:\Users\Windows 11\Desktop\Aulas-Digix\bin\Debug\net8.0\Aula.dll
+C:\Users\Windows 11\Desktop\Aulas-Digix\bin\Debug\net8.0\Aula.pdb
+C:\Users\Windows 11\Desktop\Aulas-Digix\obj\Debug\net8.0\Aula.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Windows 11\Desktop\Aulas-Digix\obj\Debug\net8.0\Aula.AssemblyInfoInputs.cache
+C:\Users\Windows 11\Desktop\Aulas-Digix\obj\Debug\net8.0\Aula.AssemblyInfo.cs
+C:\Users\Windows 11\Desktop\Aulas-Digix\obj\Debug\net8.0\Aula.csproj.CoreCompileInputs.cache
+C:\Users\Windows 11\Desktop\Aulas-Digix\obj\Debug\net8.0\Aula.sourcelink.json
+C:\Users\Windows 11\Desktop\Aulas-Digix\obj\Debug\net8.0\Aula.dll
+C:\Users\Windows 11\Desktop\Aulas-Digix\obj\Debug\net8.0\refint\Aula.dll
+C:\Users\Windows 11\Desktop\Aulas-Digix\obj\Debug\net8.0\Aula.pdb
+C:\Users\Windows 11\Desktop\Aulas-Digix\obj\Debug\net8.0\Aula.genruntimeconfig.cache
+C:\Users\Windows 11\Desktop\Aulas-Digix\obj\Debug\net8.0\ref\Aula.dll
