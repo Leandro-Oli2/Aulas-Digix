@@ -2,7 +2,7 @@ using System;
 
 namespace Exercicio01{
     class Exercicio_01{
-        static void m(String[] args){
+        static void Main(String[] args){
             System.Console.WriteLine("Informe um numero inteiro: ");
             int resp = int.Parse(System.Console.ReadLine());
             int i = 1;
