@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Windows 11\\Desktop\\Aulas-Digix\\Aula_01\\Aula_01.csproj",
+      "projectUniqueName": "C:\\Users\\Windows 11\\Desktop\\Aulas-Digix\\Aula_01.csproj",
       "projectName": "Aula_01",
-      "projectPath": "C:\\Users\\Windows 11\\Desktop\\Aulas-Digix\\Aula_01\\Aula_01.csproj",
+      "projectPath": "C:\\Users\\Windows 11\\Desktop\\Aulas-Digix\\Aula_01.csproj",
       "packagesPath": "C:\\Users\\Windows 11\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Windows 11\\Desktop\\Aulas-Digix\\Aula_01\\obj\\",
+      "outputPath": "C:\\Users\\Windows 11\\Desktop\\Aulas-Digix\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Windows 11\\AppData\\Roaming\\NuGet\\NuGet.Config"
