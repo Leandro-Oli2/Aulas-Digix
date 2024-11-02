@@ -16,7 +16,7 @@ namespace Exemplo3
 
             double preco1 = 2100.00;
             double preco2 = 650.50;
-            double medida = 53.234567;
+            double medida = 53.2345657;
 
             Console.WriteLine(medida.GetType());
             Console.WriteLine(produto1.GetType());
