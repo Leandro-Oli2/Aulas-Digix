@@ -2,7 +2,7 @@ using System;
 
 namespace Exercicio04{
     class Exercicio_04{
-        static void sssss(String[] args){
+        static void Main(String[] args){
         
            
                 System.Console.WriteLine("Informe o DDD do Seu Estado: ");
